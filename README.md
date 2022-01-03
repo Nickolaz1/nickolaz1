@@ -1,8 +1,8 @@
 ## Ola me chamo Nickolas Alexandre!
 <div align="center">
-  <a href="https://github.com/nickolasLothbrok">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nickolasLothbrok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasLothbrok&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/nickolaz1">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nickolaz1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolaz1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
